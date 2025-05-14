@@ -58,7 +58,7 @@ pacman::p_load(
 
 ## Set mímino de herramientas
 
-![](img/Tools.PNG){.absolute bottom="0" left="600" width="1000"}
+![](img/tools.PNG){.absolute bottom="0" left="600" width="1000"}
 
 <br>
 
